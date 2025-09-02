@@ -1,2 +1,2 @@
 # ML-PUF-Modeling-and-Delay-Recovery
-CS771 Course Project under Prof. Purshottam Kar, CSE, IIT Kanpur
+CS771 Course Project under Prof. Purushottam Kar, CSE, IIT Kanpur
